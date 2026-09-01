@@ -35,6 +35,7 @@ viewport={{ once: true }}
   aria-label="LinkedIn"
 >
   <FaLinkedinIn size={21} />
+  Linkdin
 </a>
 
         <a href="#">
