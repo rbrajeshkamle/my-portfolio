@@ -65,11 +65,13 @@ transition={{ delay: 0.3 }}
       </a>
 
       <a
-        href="#"
-        aria-label="LinkedIn"
-      >
-        <FaLinkedinIn size={21} />
-      </a>
+  href="linkedin.com/in/brajesh-kamle-b703a7290"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="LinkedIn"
+>
+  <FaLinkedinIn size={21} />
+</a>
 
       <a href="mailto:your-email@example.com" aria-label="Email">
         <Mail size={21} />
