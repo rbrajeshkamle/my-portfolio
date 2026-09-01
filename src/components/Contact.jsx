@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaEnvelope, FaLinkedinIn, FaGithub } from "react-icons/fa";
 
 function Contact() {
 return ( <section className="section contact" id="contact"> <div className="section-container">
@@ -23,7 +23,7 @@ viewport={{ once: true }}
       </p>
 
       <div className="contact-links">
-        <a href="mailto:your-email@example.com">
+        <a href="mailto:brajeshkamle2@gmail.com">
           <FaEnvelope />
           Email Me
         </a>
