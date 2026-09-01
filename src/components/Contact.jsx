@@ -28,10 +28,14 @@ viewport={{ once: true }}
           Email Me
         </a>
 
-        <a href="#">
-          <FaLinkedin />
-          LinkedIn
-        </a>
+        <a
+  href="https://www.linkedin.com/in/brajesh-kamle-b703a7290/"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="LinkedIn"
+>
+  <FaLinkedinIn size={21} />
+</a>
 
         <a href="#">
           <FaGithub />
